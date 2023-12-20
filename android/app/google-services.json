@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21850787243",
+    "project_id": "clara1-a019a",
+    "storage_bucket": "clara1-a019a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21850787243:android:fe9bc1b259f8737488d6ee",
+        "android_client_info": {
+          "package_name": "com.example.neuro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgjlMmnoE7LObeL46JZQhXChct6xp0ljs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
